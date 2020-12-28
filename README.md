@@ -1,7 +1,7 @@
 # ロボットシステム学　課題２
 
 ## 概要
-ROS2を用いてRaspberry Pi4 ModelB でLEDを操作する。
+ROS2とRPi.GPIOを用いてRaspberry Pi4 ModelB でLEDを操作する。
 
 ## プログラムの説明
 サブスクライバがパブリッシャから読み込んだ値が3の倍数の時LEDが点灯します。
